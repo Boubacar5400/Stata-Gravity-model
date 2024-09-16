@@ -1,2 +1,2 @@
-# Stata-Gravity-model
-Modèle de gravité avec stata 17
+# Stata : Gravity model
+**Modèle de gravité avec stata 17**
